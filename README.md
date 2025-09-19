@@ -23,6 +23,11 @@ The basemap was created by blending two topographic layers - both versions of th
      - Deep rainforest green colour selected for shadows - sampled directly from a photo of the PNG rainforest itself *(see below)*
   2. Elevation layer: From a copy of the same raster layer and rainforest photo, I devised a colour palette to represent land and sea elevations - toning down colours slightly to ensure the basemap remained subtle enough.
 
+<p align='center'>
+  <img src=assets/img/basemap%20layers.png alt="Topographic Layers" width="300" />
+  <img src=assets/img/colour%20palette%20inspo.png alt="Topographic Layers" width="300" />
+</p>
+
 ![Topographic Layers](assets/img/basemap%20layers.png)
 
 ![Colour Palette Image](assets/img/colour%20palette%20inspo.png)
