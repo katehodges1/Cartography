@@ -20,6 +20,7 @@ I chose to map Port Moresby, Papua New Guinea for this exercise - a rarely repre
 **Roads, Waterways & POIs**: Shapefiles from [Natural Earth](https://www.naturalearthdata.com/)
 <br>
 
+
 ### Methodology:
 
 The basemap was created by blending two topographic layers - both versions of the same raster downloaded from [OpenTopography.com](https://portal.opentopography.org/datasets):
@@ -35,6 +36,7 @@ The basemap was created by blending two topographic layers - both versions of th
 
 By layering and blending these, the basemap successfully evokes the local environment, whilst being subtle enough to allow the road and water networks to retain the map's overall purpose.
 <br>
+
 
 ### Additional Design Decisions:
   - Roads: mapped using neutral browns, hirearchy demarcated using line thickness and opacity
