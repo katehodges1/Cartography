@@ -17,7 +17,7 @@ I chose to map Port Moresby, Papua New Guinea for this exercise - a rarely repre
 ### Data Sources:
 
 **Topography**: Terrain raster from [OpenTopography.com](https://portal.opentopography.org/datasets) <br>
-**Roads, Waterways & POIs**: Shapefiles from [Natural Earth](https://www.naturalearthdata.com/)
+**Roads, Waterways, Administrative Extent & POIs**: Shapefiles from [Natural Earth](https://www.naturalearthdata.com/)
 <br>
 
 
@@ -27,7 +27,7 @@ The basemap was created by blending two topographic layers - both versions of th
 
   1. **Bidirectional Hillshade Layer**: Provided the texture of the surrounding *Owen Stanley Mountain Range*
      - Deep rainforest green colour selected for shadows - sampled directly from a photo of the PNG rainforest itself *(see below)*
-  2. Elevation layer: From a copy of the same raster layer and rainforest photo, I devised a colour palette to represent land and sea elevations - toning down colours slightly to ensure the basemap remained subtle enough.
+  2. **Elevation layer**: From a copy of the same raster layer and rainforest photo, I devised a colour palette to represent land and sea elevations - toning down colours slightly to ensure the basemap remained subtle enough.
 
 <p align='center'>
   <img src=assets/img/colour%20palette%20inspo.png alt="Palette Inspo" width="398" />
@@ -47,5 +47,6 @@ These decisions produced a visual hierarchy so intuitive that a legend is not re
 
 ### The Result:
 
-Here is the final map:
+Here is the final map - though the data in this case is very simple, this exercise highlights the subtle decisions that can take maps visualisations from plain to compelling; a vital step in making projects truly impactful.
+
 ![Final Map](Port%20Moresby.png)
