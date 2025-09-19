@@ -1,21 +1,32 @@
 # Cartography & Basemaps: Turning Raw Spatial Data into Intuitive Visuals
 When people think about data science, they often jump straight to algorithms and models. However, even the smartest model is useless if people can’t interpret its results. That’s where good design comes in and as a Geographer with a particular interest in spatial data, I’ve developed a strong appreciation for cartographic design.
+
+<br>
+
 This is a small but meaninful project I undertook as part of my work for the Cartography & Data Visualisation module in my final year at UC. It was formative in crystallising my appreciation of how careful design decisions (like considering visual hierarchy, colour theory and the role of basemaps for spatial data) make all the difference when it comes to work being uninterpretable and overlooked, or intuitive and a driver of decisions. 
 Though the data itself is extremely simple in this case, I developed a strong foundation to apply to future project of greater analytical complexity. 
 <br>
 I chose to map Port Moresby, Papua New Guinea for this exercise - a rarely represented city, and somewhere with interesting surrounding terrain which provides a strong showcase for how thorughtful basemap design can bring clarity to any context. Its a showcase of something I care deeply about: how we transform raw spatial data into maps that are intuitive, beautiful and genuinely useful.
 <br>
+
 ### Data Sources:
-**Topography**: Terrain raster from [OpenTopography.com](https://portal.opentopography.org/datasets)
+
+**Topography**: Terrain raster from [OpenTopography.com](https://portal.opentopography.org/datasets) <br>
 **Roads, Waterways & POIs**: Shapefiles from [Natural Earth](https://www.naturalearthdata.com/)
 <br>
+
 ### Methodology:
+
 The basemap was created by blending two topographic layers - both versions of the same raster downloaded from [OpenTopography.com](https://portal.opentopography.org/datasets):
-![Topographic Layers](assets/img/basemap%20layers.png)
+
   1. **Bidirectional Hillshade Layer**: Provided the texture of the surrounding *Owen Stanley Mountain Range*
      - Deep rainforest green colour selected for shadows - sampled directly from a photo of the PNG rainforest itself *(see below)*
   2. Elevation layer: From a copy of the same raster layer and rainforest photo, I devised a colour palette to represent land and sea elevations - toning down colours slightly to ensure the basemap remained subtle enough.
+
+![Topographic Layers](assets/img/basemap%20layers.png)
+
 ![Colour Palette Image](assets/img/colour%20palette%20inspo.png)
+
 By layering and blending these, the basemap successfully evokes the local environment, whilst being subtle enough to allow the road and water networks to retain the map's overall purpose.
 ### Additional Design Decisions:
   - Roads: mapped using neutral browns, hirearchy demarcated using line thickness and opacity
@@ -23,6 +34,8 @@ By layering and blending these, the basemap successfully evokes the local enviro
   - City extent and core: subtle white and grey tones to demarcate administrative boundary & make it more intuitive
 These decisions produced a visual hierarchy so intuitive that a legend is not required to interpret the map.
 <br>
+
 ### The Result:
+
 Here is the final map:
-![Final Map](assets/img/Port%20Moresby.png)
+![Final Map](Port%20Moresby.png)
