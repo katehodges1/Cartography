@@ -11,6 +11,9 @@ Though the data itself is extremely simple in this case, I developed a strong fo
 I chose to map Port Moresby, Papua New Guinea for this exercise - a rarely represented city, and somewhere with interesting surrounding terrain which provides a strong showcase for how thorughtful basemap design can bring clarity to any context. Its a showcase of something I care deeply about: how we transform raw spatial data into maps that are intuitive, beautiful and genuinely useful.
 <br>
 
+---
+
+
 ### Data Sources:
 
 **Topography**: Terrain raster from [OpenTopography.com](https://portal.opentopography.org/datasets) <br>
