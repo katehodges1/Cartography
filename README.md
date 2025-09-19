@@ -27,12 +27,12 @@ The basemap was created by blending two topographic layers - both versions of th
 
   <figure style="text-align: center;">
     <img src=assets/img/colour%20palette%20inspo.png alt="Palette Inspo" width="399" />
-    <figcaption>Image of surrounding rainforest used to extract colour palette</figcaption>figcaption>
+    <figcaption>Image of surrounding rainforest used to extract colour palette</figcaption>
   </figure>
 
   <figure style="text-align: center;">
   <img src=assets/img/basemap%20layers.png alt="Topographic Layers" width="501" />  
-  <figcaption>The separate topographic layers, blended to produce the final basemap</figcaption>figcaption>
+  <figcaption>The separate topographic layers, blended to produce the final basemap</figcaption>
 </figure>
 
 </div>
