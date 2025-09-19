@@ -3,7 +3,7 @@ When people think about data science, they often jump straight to algorithms and
 
 <br>
 
-This is a small but meaninful project I undertook as part of my work for the Cartography & Data Visualisation module in my final year at UC. It was formative in crystallising my appreciation of how careful design decisions (like considering visual hierarchy, colour theory and the role of basemaps for spatial data) make all the difference when it comes to work being uninterpretable and overlooked, or intuitive and a driver of decisions. 
+This is a small but meaninful project I undertook as part of my work for the Cartography & Data Visualisation module in my final year at UCL. It was formative in crystallising my appreciation of how careful design decisions (like considering visual hierarchy, colour theory and the role of basemaps for spatial data) make all the difference when it comes to work being uninterpretable and overlooked, or intuitive and a driver of decisions. 
 Though the data itself is extremely simple in this case, I developed a strong foundation to apply to future project of greater analytical complexity. 
 
 <br>
