@@ -5,7 +5,9 @@ When people think about data science, they often jump straight to algorithms and
 
 This is a small but meaninful project I undertook as part of my work for the Cartography & Data Visualisation module in my final year at UC. It was formative in crystallising my appreciation of how careful design decisions (like considering visual hierarchy, colour theory and the role of basemaps for spatial data) make all the difference when it comes to work being uninterpretable and overlooked, or intuitive and a driver of decisions. 
 Though the data itself is extremely simple in this case, I developed a strong foundation to apply to future project of greater analytical complexity. 
+
 <br>
+
 I chose to map Port Moresby, Papua New Guinea for this exercise - a rarely represented city, and somewhere with interesting surrounding terrain which provides a strong showcase for how thorughtful basemap design can bring clarity to any context. Its a showcase of something I care deeply about: how we transform raw spatial data into maps that are intuitive, beautiful and genuinely useful.
 <br>
 
